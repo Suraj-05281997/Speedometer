@@ -2,7 +2,7 @@
 
 import {Component} from 'react'
 
-import from './index.css'
+import  './index.css'
 
 class Speedometer extends Component {
     
